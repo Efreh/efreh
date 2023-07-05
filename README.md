@@ -44,22 +44,11 @@ Stepik: JAVA – получи Чёрный Пояс! (Заур Трегулов)
 <br/>  
 
 
-## Github ститистика  
-<table><tr><td valign="top" width="50%">
+## Github ститистика
+![](https://github-readme-streak-stats.herokuapp.com/?user=Efraam&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Efraam&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Efraam&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<img src="https://github-readme-stats.vercel.app/api?username=Efraam&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Efraam&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
-
+---
+[![](https://visitcount.itsvg.in/api?id=Efraam&icon=0&color=0)](https://visitcount.itsvg.in)
 ![Profile views counter](https://komarev.com/ghpvc/?username=Efraam&&style=flat-square)  
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
