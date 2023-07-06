@@ -51,4 +51,3 @@ Stepik: JAVA – получи Чёрный Пояс! (Заур Трегулов)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Efraam&icon=0&color=0)](https://visitcount.itsvg.in)
-![Profile views counter](https://komarev.com/ghpvc/?username=Efraam&&style=flat-square)  
