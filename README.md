@@ -4,13 +4,6 @@
 <div align="right">
 <img src="https://raw.githubusercontent.com/Efreh/efreh/main/mekhanikum.gif" align="right" height="200" width="250" />
 </div>  
-  
-
-<a href="https://github.com/Efreh" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-  
-https://javarush.com/users/3318078
 
 
 ### Добро пожаловать.  
@@ -24,6 +17,15 @@ https://javarush.com/users/3318078
 Stepik: Java (Джава) для начинающих: с нуля до сертификата Oracle (Заур Трегулов).
 
 Stepik: JAVA – получи Чёрный Пояс! (Заур Трегулов).
+
+## Коммуникация
+<a href="https://github.com/Efreh" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>  
+<br/> 
+<a href="https://javarush.com/users/3318078" target="_blank">
+<img src="https://raw.githubusercontent.com/Efreh/efreh/main/javarush.jpg" />
+</a>  
   
 
 <br/>  
