@@ -20,7 +20,7 @@
 <br/> 
 <a href="https://javarush.com/users/3318078" target="_blank">
 <img src="https://raw.githubusercontent.com/Efreh/efreh/main/javarush.jpg" />
-</a> 
+
 Telegram @laefr
   
 
