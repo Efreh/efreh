@@ -14,14 +14,7 @@
 Я искренне увлечен созданием качественного и эффективного кода, и стремлюсь к достижению лучших результатов в своей работе. Открыт для сотрудничества, обмена опытом.
 
 ## Коммуникация
-<a href="https://github.com/Efreh" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-<br/> 
-<a href="https://javarush.com/users/3318078" target="_blank">
-<img src="https://raw.githubusercontent.com/Efreh/efreh/main/javarush.jpg" />
-</a>  
-<br/>  
+
 Telegram @laefr
   
 
